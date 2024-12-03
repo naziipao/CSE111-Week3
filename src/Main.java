@@ -50,7 +50,9 @@ class patha{
                 System.out.println("median1: " + median1);
                 System.out.println("result: " + result);
                 System.out.println("Median: " + result);
+                System.out.println("Bhombola");
                 break;
+
             }
         }
         
