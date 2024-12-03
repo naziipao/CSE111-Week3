@@ -51,6 +51,7 @@ class patha{
                 System.out.println("result: " + result);
                 System.out.println("Median: " + result);
                 System.out.println("Bhombola");
+
                 break;
 
             }
